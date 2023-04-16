@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.huda_clinic_mobile",
-    "sha256_cert_fingerprints":
-    ["6D:76:C9:A3:3E:F9:4D:92:CA:C1:17:AB:95:35:A9:4F:79:56:F6:4D:31:8E:CD:1D:D9:DF:D4:70:35:8B:1C:02"]
-  }
-}]
